@@ -1,14 +1,13 @@
 {
-  "main.css": "/movies-series-info-app/static/css/main.faebd4b3.chunk.css",
-  "main.js": "/movies-series-info-app/static/js/main.642c9b7b.chunk.js",
-  "main.js.map": "/movies-series-info-app/static/js/main.642c9b7b.chunk.js.map",
+  "main.css": "/movies-series-info-app/static/css/main.628c74c4.chunk.css",
+  "main.js": "/movies-series-info-app/static/js/main.ee58de3b.chunk.js",
+  "main.js.map": "/movies-series-info-app/static/js/main.ee58de3b.chunk.js.map",
   "static/js/1.63685b0b.chunk.js": "/movies-series-info-app/static/js/1.63685b0b.chunk.js",
   "static/js/1.63685b0b.chunk.js.map": "/movies-series-info-app/static/js/1.63685b0b.chunk.js.map",
   "runtime~main.js": "/movies-series-info-app/static/js/runtime~main.eb79a124.js",
   "runtime~main.js.map": "/movies-series-info-app/static/js/runtime~main.eb79a124.js.map",
-  "static/media/App.css": "/movies-series-info-app/static/media/background.57173eb8.jpg",
-  "static/css/main.faebd4b3.chunk.css.map": "/movies-series-info-app/static/css/main.faebd4b3.chunk.css.map",
+  "static/css/main.628c74c4.chunk.css.map": "/movies-series-info-app/static/css/main.628c74c4.chunk.css.map",
   "index.html": "/movies-series-info-app/index.html",
-  "precache-manifest.2c0377108c0d7b8ba5f73455889928d5.js": "/movies-series-info-app/precache-manifest.2c0377108c0d7b8ba5f73455889928d5.js",
+  "precache-manifest.6b0a3d8b496c2a7e3449eb3b5aedbe8e.js": "/movies-series-info-app/precache-manifest.6b0a3d8b496c2a7e3449eb3b5aedbe8e.js",
   "service-worker.js": "/movies-series-info-app/service-worker.js"
 }
